@@ -1,0 +1,123 @@
+h1{
+    color: white;
+    text-align: center;
+}
+.semiz{
+   color: yellow;
+
+}
+body{
+    background-color: brown;
+}
+.space{
+    display: flex;
+ margin-left: 850px;
+}
+.around{
+    display: flex;
+    justify-content: center;
+    margin-top: -18px;
+}
+.evenly{
+    display: flex;
+    margin-top: -18px; 
+    margin-left: 400px; 
+}
+.logo{
+    margin-top: -30px;
+    margin-left: 59px;
+    font-size: 50px;    
+}
+img{
+    margin-left: 59px;
+}
+.flexbox{
+    display: flex;
+    margin-left: 170px;
+   
+}
+.rasm{
+background-color: black;
+
+}
+p{
+    color: white;
+    margin-left: 100px;
+    margin-top: -35px;
+}
+.container{
+    display: flex;
+    margin-left: 130px;
+}
+.rasm2{
+    background-color: black;
+
+
+}
+.p2{
+    color: white;
+    margin-left: 100px;
+    margin-top: -35px;
+}
+.evenly2{
+    display: flex;
+    margin-left: 130px;
+    margin-top: 10px;
+}
+.rasm3{
+    background-color: black;
+  
+}
+.kotta{
+    display: flex;
+    justify-content: space-around;
+}
+.p3{
+    color: white;
+    margin-left: 100px;
+    margin-top: -35px;
+}
+.between2{
+    display: flex;
+    margin-left: 120px;
+    margin-top: 10px;
+}
+.rasm4{
+ background-color: black;   
+}
+.p4{
+    color: white;
+    margin-left: 100px; 
+    margin-top: -35px;  
+}
+.items-a{
+    display: flex;
+    margin-left: 120px;
+    margin-top: 10px;
+}
+.rasm5{
+    background-color: black;
+}
+.p5{
+    color: white;
+    margin-left: 100px; 
+    margin-top: -35px;  
+}
+.rasm6{
+    background-color: black;
+}
+.flexboxxx{
+    display: flex;
+    margin-left: 120px;
+    margin-top: 10px;
+}
+.p6{
+    color: white;
+    margin-left: 100px; 
+    margin-top: -35px;
+}
+.kotta2{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 30px;
+}
